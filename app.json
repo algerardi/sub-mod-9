@@ -1,0 +1,6 @@
+{
+  "name": "Sub-mod-9: PHP",
+  "description": "A barebones PHP app that makes use of the Silex web framework",
+  "repository": "https://github.com/henriquemoreno1981/sub-mod-9",
+  "addons": []
+}
